@@ -1,0 +1,5 @@
+C:\Users\dinesh.bhatt\source\repos\JSOMSharePointAddIn2\SharePointAddIn2\bin\Debug\SharePointAddIn2.pdb
+C:\Users\dinesh.bhatt\source\repos\JSOMSharePointAddIn2\SharePointAddIn2\obj\Debug\SharePointAddIn2.csprojAssemblyReference.cache
+C:\Users\dinesh.bhatt\source\repos\JSOMSharePointAddIn2\SharePointAddIn2\obj\Debug\SharePointAddIn2.csproj.CoreCompileInputs.cache
+C:\Users\dinesh.bhatt\source\repos\JSOMSharePointAddIn2\SharePointAddIn2\obj\Debug\SharePointAddIn2.dll
+C:\Users\dinesh.bhatt\source\repos\JSOMSharePointAddIn2\SharePointAddIn2\obj\Debug\SharePointAddIn2.pdb

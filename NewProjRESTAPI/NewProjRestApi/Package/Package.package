@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="ee7a98e8-e909-4f94-b4f0-b27973e4589d" 
+        solutionId="ee7a98e8-e909-4f94-b4f0-b27973e4589d" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="NewProjRestApi"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="b37101e1-503b-4456-94ef-de9733cbacc6" />
+  </features>
+</package>

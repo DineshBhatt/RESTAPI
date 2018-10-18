@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>https://acuvateuk.sharepoint.com/sites/TrainingDevSite/</SharePointSiteUrl>
+    <OfficeAndSharePointStartAction>Google Chrome</OfficeAndSharePointStartAction>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{C1CDDADD-2546-481F-9697-4EA41081F2FC}">
+        <ProjectStore>
+          <AppInstancePackageModifiedTime>2018-10-18T09:46:30.9633106Z</AppInstancePackageModifiedTime>
+          <AppInstanceId>2a26ff80-d7f2-4c61-80c6-c03e9b412668</AppInstanceId>
+        </ProjectStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

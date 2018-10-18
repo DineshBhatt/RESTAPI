@@ -1,0 +1,4 @@
+C:\Users\dinesh.bhatt\source\repos\NewJavaScriptDemoProJ\NewJavaScriptDemo\obj\Debug\NewJavaScriptDemo.csproj.CoreCompileInputs.cache
+C:\Users\dinesh.bhatt\source\repos\NewJavaScriptDemoProJ\NewJavaScriptDemo\bin\Debug\NewJavaScriptDemo1.pdb
+C:\Users\dinesh.bhatt\source\repos\NewJavaScriptDemoProJ\NewJavaScriptDemo\obj\Debug\NewJavaScriptDemo1.dll
+C:\Users\dinesh.bhatt\source\repos\NewJavaScriptDemoProJ\NewJavaScriptDemo\obj\Debug\NewJavaScriptDemo1.pdb

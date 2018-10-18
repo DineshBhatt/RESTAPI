@@ -1,0 +1,4 @@
+C:\Users\dinesh.bhatt\source\repos\NewProjRESTAPI\NewProjRestApi\bin\Debug\NewProjRestApi.pdb
+C:\Users\dinesh.bhatt\source\repos\NewProjRESTAPI\NewProjRestApi\obj\Debug\NewProjRestApi.csproj.CoreCompileInputs.cache
+C:\Users\dinesh.bhatt\source\repos\NewProjRESTAPI\NewProjRestApi\obj\Debug\NewProjRestApi.dll
+C:\Users\dinesh.bhatt\source\repos\NewProjRESTAPI\NewProjRestApi\obj\Debug\NewProjRestApi.pdb

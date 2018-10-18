@@ -1,0 +1,1 @@
+bin\Debug\SharePointAddIn2.wsp
